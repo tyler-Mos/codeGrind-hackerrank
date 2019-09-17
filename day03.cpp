@@ -2,7 +2,7 @@
 
 using namespace std;
 
-
+// This is a good example of how to utilize the conditional operator
 
 int main()
 {
